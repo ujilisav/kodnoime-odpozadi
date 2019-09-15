@@ -1,0 +1,1 @@
+module.exports =  'mongodb+srv://Vasilije:UX0bokGnGgNTDfP9@tracevi-wiywm.mongodb.net/tracevi?retryWrites=true&w=majority';
